@@ -1,0 +1,23 @@
+.top{
+    font-family: 'Roboto', sans-serif;
+}
+.bottom,#button{
+    font-family: 'Rubik Iso', cursive;
+}
+h1{
+    color: rgb(116, 10, 86);
+    background-color: bisque;
+    width: 500px;
+
+}
+section{
+    margin-left: 10px;
+}
+#button{
+    color: rgb(255, 255, 255);
+    background: rgb(202, 66, 255);
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 10px 40px;
+    border: solid;
+}
